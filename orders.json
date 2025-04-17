@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ETH-USDT-903959-1744881349599",
+    "symbol": "ETH/USDT",
+    "side": "buy",
+    "price": 1584.61,
+    "quantity": 0.0001,
+    "status": "new",
+    "created_at": "2025-04-17 15:18:00"
+  },
+  {
+    "id": "ETH-USDT-906700-1744883271918",
+    "symbol": "ETH/USDT",
+    "side": "buy",
+    "price": 1570.64,
+    "quantity": 0.0001,
+    "status": "NEW",
+    "created_at": "2025-04-17 14:47:20"
+  }
+]
